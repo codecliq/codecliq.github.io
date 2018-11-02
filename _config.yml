@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are Advertising agency, specializing in brand design and strategy. 
   We help brands and organisations gain a competitive advantage
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.codecliq.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 image: img/codecliq-og.png
 
 # Build settings
