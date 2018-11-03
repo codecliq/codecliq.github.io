@@ -1639,7 +1639,7 @@ input[type=submit]:hover {
 }
 
 select {
-    background: url(/web/20180814040038im_/http://codecliq.com/files/assets/select-arrow.png) center right no-repeat;
+    background: url(../assets/select-arrow.png) center right no-repeat;
     border: 1px solid rgba(0, 0, 0, .2);
     font-size: 14px;
     font-weight: 300;
@@ -1656,7 +1656,7 @@ select {
 .text-light select {
     color: #fff;
     border-color: #fa4d5a;
-    background-image: url(/web/20180814040038im_/http://codecliq.com/files/assets/select-arrow-light.png)
+    background-image: url(../assets/select-arrow-light.png)
 }
 
 select option {
@@ -5713,7 +5713,7 @@ input[type=submit]:hover {
 }
 
 select {
-    background: url(/web/20180814040038im_/http://codecliq.com/files/assets/select-arrow.png) center right no-repeat;
+    background: url(../assets/select-arrow.png) center right no-repeat;
     border: 1px solid rgba(0, 0, 0, .2);
     font-size: 14px;
     font-weight: 300;
@@ -5730,7 +5730,7 @@ select {
 .text-light select {
     color: #fff;
     border-color: #fa4d5a;
-    background-image: url(/web/20180814040038im_/http://codecliq.com/files/assets/select-arrow-light.png)
+    background-image: url(../assets/select-arrow-light.png)
 }
 
 select option {
@@ -9159,29 +9159,8 @@ footer {
 }
 @font-face {
     font-family: 'FontAwesome';
-    src: url('/web/20180814040038im_/http://codecliq.com/files/fonts/fontawesome-webfont5b62.eot?v=4.6.3');
-    src: url('/web/20180814040038im_/http://codecliq.com/files/fonts/fontawesome-webfontd41d.eot#iefix&v=4.6.3') format('embedded-opentype'), url('/web/20180814040038im_/http://codecliq.com/files/fonts/fontawesome-webfont5b62.woff2?v=4.6.3') format('woff2'), url('/web/20180814040038im_/http://codecliq.com/files/fonts/fontawesome-webfont5b62.woff?v=4.6.3') format('woff'), url('/web/20180814040038im_/http://codecliq.com/files/fonts/fontawesome-webfont5b62.ttf?v=4.6.3') format('truetype'), url('/web/20180814040038im_/http://codecliq.com/files/fonts/fontawesome-webfont5b62.svg?v=4.6.3#fontawesomeregular') format('svg');
+    src: url('../fonts/fontawesome-webfont5b62.eot?v=4.6.3');
+    src: url('../fonts/fontawesome-webfontd41d.eot#iefix&v=4.6.3') format('embedded-opentype'), url('../fonts/fontawesome-webfont5b62.woff2?v=4.6.3') format('woff2'), url('../fonts/fontawesome-webfont5b62.woff?v=4.6.3') format('woff'), url('../fonts/fontawesome-webfont5b62.ttf?v=4.6.3') format('truetype'), url('../fonts/fontawesome-webfont5b62.svg?v=4.6.3#fontawesomeregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
-/*
-     FILE ARCHIVED ON 04:00:38 Aug 14, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:49:39 Oct 31, 2018.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  LoadShardBlock: 75.578 (3)
-  esindex: 0.005
-  captures_list: 94.689
-  CDXLines.iter: 11.822 (3)
-  PetaboxLoader3.datanode: 70.614 (4)
-  exclusion.robots: 0.274
-  exclusion.robots.policy: 0.262
-  RedisCDXSource: 4.491
-  PetaboxLoader3.resolve: 67.733
-  load_resource: 170.715
-*/
