@@ -9159,8 +9159,7 @@ footer {
 }
 @font-face {
     font-family: 'FontAwesome';
-    src: url('../fonts/fontawesome-webfont5b62.eot?v=4.6.3');
-    src: url('../fonts/fontawesome-webfontd41d.eot#iefix&v=4.6.3') format('embedded-opentype'), url('../fonts/fontawesome-webfont5b62.woff2?v=4.6.3') format('woff2'), url('../fonts/fontawesome-webfont5b62.woff?v=4.6.3') format('woff'), url('../fonts/fontawesome-webfont5b62.ttf?v=4.6.3') format('truetype'), url('../fonts/fontawesome-webfont5b62.svg?v=4.6.3#fontawesomeregular') format('svg');
+    src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg');
     font-weight: normal;
     font-style: normal;
 }
